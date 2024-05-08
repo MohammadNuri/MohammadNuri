@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohammadNuri
+- 👋 Hi, I’m @MohammadNouri
 - 👀 I’m interested in Backend Programming
 - 🌱 I’m currently learning ASP.Net Core
 - 💞️ I’m looking to collaborate on any .Net Developers
