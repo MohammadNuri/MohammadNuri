@@ -25,19 +25,19 @@
 ### 🌐 Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/DarvyXe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: DarvyXe"/>
   </a>
   <a href="https://twitter.com/DarvyXe">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X: @DarvyXe"/>
   </a>
   <a href="https://discord.com/users/DarvyXe">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: DarvyXe"/>
   </a>
   <a href="https://twitch.tv/DarvyXe">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch: DarvyXe"/>
   </a>
   <a href="https://dev.to/DarvyXe">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to: DarvyXe"/>
   </a>
 </div>
 
@@ -45,20 +45,26 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNouri&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNouri&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNouri&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=MohammadNouri&theme=dracula&hide_border=true" height="150" alt="GitHub streak" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏅 Profile Highlights (Trophy Alternative)
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadNouri&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNouri&theme=dracula" alt="Profile details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadNouri&theme=dracula" height="140" alt="General stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammadNouri&theme=dracula" height="140" alt="Productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadNouri&theme=dracula" height="140" alt="Top languages by repo"/>
 </div>
 
 ---
 
-### 🔥 Fun Contribution Graph
+### 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadNouri&theme=dracula&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadNouri&theme=dracula&hide_border=true" alt="Activity graph"/>
 </div>
