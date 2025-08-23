@@ -1,59 +1,64 @@
-- 👋 Hi, I’m @MohammadNouri
-- 👀 I’m interested in Backend Programming
-- 🌱 I’m currently learning ASP.Net Core
-- 💞️ I’m looking to collaborate on any .Net Developers
-- 📫 How to reach me : DarvyXe@Gmail.com or @DarvyXe on any Social Media 
-- 📫 Code Name = @DarvyXe
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mohammad Nouri (@DarvyXe)</h1>
+<h3 align="center">Backend Developer | .NET Enthusiast | Tech Explorer</h3>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+---
 
-###
+### 🚀 About Me
+- 👀 Interested in **Backend Programming & System Design**  
+- 🌱 Currently learning **ASP.Net Core & Cloud Services**  
+- 💞️ Open to collaborate with **.NET Developers & Backend Teams**  
+- 📫 Reach me at **DarvyXe@Gmail.com**  
+- 🕶️ Online Code Name: **@DarvyXe**
 
+---
+
+### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,py,go,rust" height="50" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,graphql,tailwind" height="50" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" height="50" alt="tools" />
 </div>
 
-###
+---
 
+### 🌐 Connect with Me
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://linkedin.com/in/darvyxe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/DarvyXe" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/darvyxe" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/darvyxe" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
 </div>
 
-###
+---
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNouri&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNouri&theme=dracula&hide_border=true" height="150" alt="streak graph" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadNouri&theme=dracula&no-frame=true&margin-w=10&margin-h=10" />
+</div>
 
-###
+---
+
+### 🔥 Fun Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadNouri&theme=dracula&hide_border=true" alt="activity graph"/>
+</div>
