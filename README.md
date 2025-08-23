@@ -69,13 +69,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadNuri&theme=dracula&hide_border=true" alt="Activity graph"/>
 </div>
 
+---
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadNuri/MohammadNuri/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammadNuri/MohammadNuri/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohammadNuri/MohammadNuri/output/pacman-contribution-graph.svg">
 </picture>
-
 ###
