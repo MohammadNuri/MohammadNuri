@@ -24,19 +24,19 @@
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/darvyxe" target="_blank">
+  <a href="https://linkedin.com/in/DarvyXe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/DarvyXe" target="_blank">
+  <a href="https://twitter.com/DarvyXe">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.com/users/DarvyXe">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://twitch.tv/darvyxe" target="_blank">
+  <a href="https://twitch.tv/DarvyXe">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-  <a href="https://dev.to/darvyxe" target="_blank">
+  <a href="https://dev.to/DarvyXe">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 </div>
@@ -53,7 +53,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadNouri&theme=dracula&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadNouri&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 ---
