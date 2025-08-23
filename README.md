@@ -45,26 +45,26 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNouri&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=MohammadNouri&theme=dracula&hide_border=true" height="150" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNuri&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=MohammadNuri&theme=dracula&hide_border=true" height="150" alt="GitHub streak" />
 </div>
 
 ---
 
 ### 🏅 Profile Highlights
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNouri&theme=dracula" alt="Profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNuri&theme=dracula" alt="Profile details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadNouri&theme=dracula" height="140" alt="General stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammadNouri&theme=dracula" height="140" alt="Productive time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadNouri&theme=dracula" height="140" alt="Top languages by repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadNuri&theme=dracula" height="140" alt="General stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammadNuri&theme=dracula" height="140" alt="Productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadNuri&theme=dracula" height="140" alt="Top languages by repo"/>
 </div>
 
 ---
 
 ### 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadNouri&theme=dracula&hide_border=true" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadNuri&theme=dracula&hide_border=true" alt="Activity graph"/>
 </div>
