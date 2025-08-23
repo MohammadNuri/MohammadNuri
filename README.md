@@ -51,7 +51,7 @@
 
 ---
 
-### 🏅 Profile Highlights (Trophy Alternative)
+### 🏅 Profile Highlights
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNouri&theme=dracula" alt="Profile details"/>
 </div>
